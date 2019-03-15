@@ -1,0 +1,11 @@
+cn\JEvin\mapper\TbOrderMapper.class
+cn\JEvin\mapper\TbOrderShippingMapper.class
+cn\JEvin\mapper\TbOrderItemMapper.class
+cn\JEvin\mapper\TbContentMapper.class
+cn\JEvin\mapper\TbContentCategoryMapper.class
+cn\JEvin\mapper\TbItemCatMapper.class
+cn\JEvin\mapper\TbItemDescMapper.class
+cn\JEvin\mapper\TbItemParamItemMapper.class
+cn\JEvin\mapper\TbUserMapper.class
+cn\JEvin\mapper\TbItemParamMapper.class
+cn\JEvin\mapper\TbItemMapper.class
